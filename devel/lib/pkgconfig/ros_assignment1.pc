@@ -1,0 +1,8 @@
+prefix=/home/raysonkoh/Documents/bumble-bee-1/devel
+
+Name: ros_assignment1
+Description: Description of ros_assignment1
+Version: 0.0.0
+Cflags: -I/home/raysonkoh/Documents/bumble-bee-1/devel/include
+Libs: -L/home/raysonkoh/Documents/bumble-bee-1/devel/lib 
+Requires: 

@@ -1,0 +1,2 @@
+ros_assignment1
+-DCATKIN_DEVEL_PREFIX=/home/raysonkoh/Documents/bumble-bee-1/devel -DCMAKE_INSTALL_PREFIX=/home/raysonkoh/Documents/bumble-bee-1/install -G Unix Makefiles
